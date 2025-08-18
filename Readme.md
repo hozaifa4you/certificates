@@ -2,19 +2,24 @@
 
 **Objective:** 👋 Hi, I’m Hozaifa Bin Masud — a full-stack developer passionate about building scalable web apps and smart, AI-powered tools.
 
+-  Junior Software Eng. at [Namespace IT](https://namespaceit.com)
 -  `hozaifabinmasud@gmail.com`
 -  `+8801918780770`
--  [Linkedin](https://linkeding.com/in/hozaifabinmasud)
+-  [Resume](/resume/hozaifa-cv-v6.pdf)
+-  [Website](https://hozaifabinmasud.vercel.app)
 -  [Github](https://github.com/hozaifa4you)
--  [Euro Pass](https://github.com/hozaifa4you)
--  [Google Developer](https://github.com/hozaifa4you)
+-  [Linkedin](https://linkedin.com/in/hozaifabinmasud)
+-  [Twitter](https://twitter.com/hozaifabinmasud)
+-  [Facebook](https://facebook.com/hozaifabinmasud)
+-  [Google Developer](https://g.dev/hozaifabinmasud)
+-  [ORC ID](https://orcid.org/0009-0008-1446-7185)
 
 ## Academics Certificates
 
 1. Masters - Al-Haiatul Ulya Lil-Jamiatil Qawmia Bangladesh (2017)
 2. SSC - Science - Chattogram Board (2019)
 3. HSC - Science - Jeshore Board (2021)
-4. B.Sc in Computer Science - Institute of Science and Technology (ISTT) (Running)
+4. B.Sc in Computer Science & Engineering - Institute of Science Trade and Technology (ISTT), Dhaka. (Running)
 
 ## Professional Certificates
 
