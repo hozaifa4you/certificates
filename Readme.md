@@ -18,7 +18,7 @@ Full Stack and AI Developer
 
 ## Professional Certificates
 
-1. Google Cloud - Google Cloud Developer
+1. Google Cloud - Google Cloud Developer [View](/professionals/Google%20Cloud%20-%20Google%20Cloud%20Developer.pdf)
 2. IBM - Full Stack JavaScript Developer (Running)
 
 ## Specialized Certificates
