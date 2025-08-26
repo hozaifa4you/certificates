@@ -57,11 +57,12 @@ I'm Hozaifa Bin Masud, a passionate full-stack developer focused on building sca
 
 ## 📚 More Certificates
 
--  Google Cloud - [A Tour of Google Cloud Hands-on Labs](/Google%20Cloud%20-%20A%20Tour%20of%20Google%20Cloud%20Hands-on%20Labs.pdf)
--  Google Cloud - [Developing Applications with Cloud Run Functions on Google Cloud](/Google%20Cloud%20-%20Developing%20Applications%20with%20Cloud%20Run%20Functions%20on%20Google%20Cloud.pdf)
--  Google Cloud - [Developing Applications with Google Cloud: Foundations](/Google%20Cloud%20-%20Developing%20Applications%20with%20Google%20Cloud%3A%20Foundations.pdf)
--  Scrimba - [Learn D3](/Learn%20D3.pdf)
--  UCI - [Getting Started with GO](/UCI%20-%20Getting%20starting%20with%20GO.pdf)
+-  Google Cloud - [A Tour of Google Cloud Hands-on Labs](/google-cloud-a-tour-of-google-cloud-hands-on-labs.pdf)
+-  Google Cloud - [Developing Applications with Cloud Run Functions on Google Cloud](/google-cloud-developing-applications-with-cloud-run-functions-on-google-cloud.pdf)
+-  Google Cloud - [Developing Applications with Google Cloud: Foundations](/google-cloud-developing-applications-with-google-cloud-foundations.pdf)
+-  Scrimba - [Learn D3](/scrimba-learn-d3.pdf)
+-  UCI - [Getting Started with GO](/uci-getting-starting-with-go.pdf)
+-  Packt - [Foundation of DevOps & Git](/packt-foundation-of-devops-and-git.pdf)
 
 ---
 
@@ -69,7 +70,7 @@ I'm Hozaifa Bin Masud, a passionate full-stack developer focused on building sca
 
 | Badge                                 | File                                                                |
 | ------------------------------------- | ------------------------------------------------------------------- |
-| IBM - Git and Github Essentials       | [View](/badges/IBM%20-%20Git%20and%20GitHub%20Essentials.pdf)       |
+| IBM - Git and Github Essentials       | [View](/badges/ibm-git-and-github-essentials.pdf)                   |
 | IBM - Introduction to Cloud Computing | [View](/badges/IBM%20-%20Introduction%20to%20Cloud%20Computing.pdf) |
 | IBM - Software Engineer Essentials    | [View](/badges/IBM%20-%20Software%20Engineering%20Essentials.pdf)   |
 
