@@ -39,38 +39,42 @@ I'm Hozaifa Bin Masud, a passionate full-stack developer focused on building sca
 
 ## 🏅 Professional Certificates
 
-| Certificate                         | Status    | File                                                                       |
-| ----------------------------------- | --------- | -------------------------------------------------------------------------- |
-| Google Cloud Developer              | Completed | [View](/professionals/Google%20Cloud%20-%20Google%20Cloud%20Developer.pdf) |
-| IBM Full Stack JavaScript Developer | Running   | —                                                                          |
+| Certificate                         | Status    | File                                                           |
+| ----------------------------------- | --------- | -------------------------------------------------------------- |
+| Google Cloud Developer              | Completed | [View](/professionals/google-cloud-google-cloud-developer.pdf) |
+| IBM Full Stack JavaScript Developer | Running   | — (Coming soon)                                                |
 
 ---
 
 ## 🎯 Specialized Certificates
 
-| Certificate                      | File                                                                 |
-| -------------------------------- | -------------------------------------------------------------------- |
-| Scrimba - The AI Engineer Path   | [View](/specializeds/Scrimba%20-%20The%20AI%20Engineer%20Path.pdf)   |
-| UCI - Programming With Google Go | [View](/specializeds/UCI%20-%20Programming%20with%20Google%20Go.pdf) |
+| Certificate                      | File                                                     |
+| -------------------------------- | -------------------------------------------------------- |
+| Scrimba - The AI Engineer Path   | [View](/specializeds/scrimba-the-ai-engineer-path.pdf)   |
+| UCI - Programming With Google Go | [View](/specializeds/uci-programming-with-google-go.pdf) |
 
 ---
 
 ## 📚 More Certificates
 
--  Google Cloud - [A Tour of Google Cloud Hands-on Labs](/Google%20Cloud%20-%20A%20Tour%20of%20Google%20Cloud%20Hands-on%20Labs.pdf)
--  Google Cloud - [Developing Applications with Cloud Run Functions on Google Cloud](/Google%20Cloud%20-%20Developing%20Applications%20with%20Cloud%20Run%20Functions%20on%20Google%20Cloud.pdf)
--  Google Cloud - [Developing Applications with Google Cloud: Foundations](/Google%20Cloud%20-%20Developing%20Applications%20with%20Google%20Cloud%3A%20Foundations.pdf)
--  Scrimba - [Learn D3](/Learn%20D3.pdf)
--  UCI - [Getting Started with GO](/UCI%20-%20Getting%20starting%20with%20GO.pdf)
+-  Google Cloud - [A Tour of Google Cloud Hands-on Labs](/google-cloud-a-tour-of-google-cloud-hands-on-labs.pdf)
+-  Google Cloud - [Developing Applications with Cloud Run Functions on Google Cloud](/google-cloud-developing-applications-with-cloud-run-functions-on-google-cloud.pdf)
+-  Google Cloud - [Developing Applications with Google Cloud: Foundations](/google-cloud-developing-applications-with-google-cloud-foundations.pdf)
+-  Scrimba - [Learn D3](/scrimba-learn-d3.pdf)
+-  UCI - [Getting Started with GO](/uci-getting-starting-with-go.pdf)
+-  Packt - [Foundation of DevOps & Git](/packt-foundation-of-devops-and-git.pdf)
 
 ---
 
 ## 🏆 Badges
 
-| Badge                                 | File                                                                |
-| ------------------------------------- | ------------------------------------------------------------------- |
-| IBM - Git and Github Essentials       | [View](/badges/IBM%20-%20Git%20and%20GitHub%20Essentials.pdf)       |
-| IBM - Introduction to Cloud Computing | [View](/badges/IBM%20-%20Introduction%20to%20Cloud%20Computing.pdf) |
-| IBM - Software Engineer Essentials    | [View](/badges/IBM%20-%20Software%20Engineering%20Essentials.pdf)   |
+| Badge                                     | File                                                        |
+| ----------------------------------------- | ----------------------------------------------------------- |
+| IBM - Git and Github Essentials           | [View](/badges/ibm-git-and-github-essentials.pdf)           |
+| IBM - Introduction to Cloud Computing     | [View](/badges/ibm-cntroduction-to-cloud-computing.pdf)     |
+| IBM - Software Engineer Essentials        | [View](/badges/ibm-software-engineering-essentials.pdf)     |
+| IBM - Front-end Development With React V2 | [View](/badges/ibm-front-end-development-with-react-v2.pdf) |
 
 ---
+
+## 🏆 GitHub Achievements
