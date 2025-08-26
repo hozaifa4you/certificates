@@ -39,19 +39,19 @@ I'm Hozaifa Bin Masud, a passionate full-stack developer focused on building sca
 
 ## 🏅 Professional Certificates
 
-| Certificate                         | Status    | File                                                                       |
-| ----------------------------------- | --------- | -------------------------------------------------------------------------- |
-| Google Cloud Developer              | Completed | [View](/professionals/Google%20Cloud%20-%20Google%20Cloud%20Developer.pdf) |
-| IBM Full Stack JavaScript Developer | Running   | —                                                                          |
+| Certificate                         | Status    | File                                                           |
+| ----------------------------------- | --------- | -------------------------------------------------------------- |
+| Google Cloud Developer              | Completed | [View](/professionals/google-cloud-google-cloud-developer.pdf) |
+| IBM Full Stack JavaScript Developer | Running   | — (Coming soon)                                                |
 
 ---
 
 ## 🎯 Specialized Certificates
 
-| Certificate                      | File                                                                 |
-| -------------------------------- | -------------------------------------------------------------------- |
-| Scrimba - The AI Engineer Path   | [View](/specializeds/Scrimba%20-%20The%20AI%20Engineer%20Path.pdf)   |
-| UCI - Programming With Google Go | [View](/specializeds/UCI%20-%20Programming%20with%20Google%20Go.pdf) |
+| Certificate                      | File                                                     |
+| -------------------------------- | -------------------------------------------------------- |
+| Scrimba - The AI Engineer Path   | [View](/specializeds/scrimba-the-ai-engineer-path.pdf)   |
+| UCI - Programming With Google Go | [View](/specializeds/uci-programming-with-google-go.pdf) |
 
 ---
 
@@ -68,10 +68,13 @@ I'm Hozaifa Bin Masud, a passionate full-stack developer focused on building sca
 
 ## 🏆 Badges
 
-| Badge                                 | File                                                                |
-| ------------------------------------- | ------------------------------------------------------------------- |
-| IBM - Git and Github Essentials       | [View](/badges/ibm-git-and-github-essentials.pdf)                   |
-| IBM - Introduction to Cloud Computing | [View](/badges/IBM%20-%20Introduction%20to%20Cloud%20Computing.pdf) |
-| IBM - Software Engineer Essentials    | [View](/badges/IBM%20-%20Software%20Engineering%20Essentials.pdf)   |
+| Badge                                     | File                                                        |
+| ----------------------------------------- | ----------------------------------------------------------- |
+| IBM - Git and Github Essentials           | [View](/badges/ibm-git-and-github-essentials.pdf)           |
+| IBM - Introduction to Cloud Computing     | [View](/badges/ibm-cntroduction-to-cloud-computing.pdf)     |
+| IBM - Software Engineer Essentials        | [View](/badges/ibm-software-engineering-essentials.pdf)     |
+| IBM - Front-end Development With React V2 | [View](/badges/ibm-front-end-development-with-react-v2.pdf) |
 
 ---
+
+## 🏆 GitHub Achievements
