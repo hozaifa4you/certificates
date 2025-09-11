@@ -48,10 +48,11 @@ I'm Hozaifa Bin Masud, a passionate full-stack developer focused on building sca
 
 ## 🎯 Specialized Certificates
 
-| Certificate                      | File                                                     |
-| -------------------------------- | -------------------------------------------------------- |
-| Scrimba - The AI Engineer Path   | [View](/specializeds/scrimba-the-ai-engineer-path.pdf)   |
-| UCI - Programming With Google Go | [View](/specializeds/uci-programming-with-google-go.pdf) |
+| Certificate                                           | File                                                                        |
+| ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| Scrimba - The AI Engineer Path                        | [View](/specializeds/scrimba-the-ai-engineer-path.pdf)                      |
+| UCI - Programming With Google Go                      | [View](/specializeds/uci-programming-with-google-go.pdf)                    |
+| Packt - Master Svelte Framework - The Complete Course | [View](/specializeds/packt-master-svelte-framework-the-complete-course.pdf) |
 
 ---
 
